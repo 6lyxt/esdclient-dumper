@@ -13,13 +13,17 @@
       },
       "03094341-36dd-4093-9889-a7a4cc02f108":{
          "name":"lyxtiswaifu",
+	 "cape":"beta_blue",
          "nameTag":"§5Mada§f-§cCracker",
          "cosmetics":[
             "HEADSET",
             "DWARF",
             "RABBIT_EARS",
             "BACKPACK",
-            "BUM_BAG"
+            "BUM_BAG",
+	    "Shoes",
+            "HALO",
+	    "WINGS"
          ]
       },
       "71ce0b68-19f0-47b8-91b4-4065834809ef":{
