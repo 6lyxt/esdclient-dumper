@@ -1,7 +1,2 @@
-# esdclient-dumper
-simple dumper for esd client (should work for other clients too)
-
-requires atleast asm 5.2 
-
-## demonstration
-[https://www.youtube.com/watch?v=uECiiMRJWys]
+# random minecraft client fuckery
+this is me having fun with some minecraft clients, you may also just ignore this repo
